@@ -1,4 +1,4 @@
-# 🛒 Amazon Web Scraper (Python)
+# 🛒 Amazon Web Scraper
 
 Ce projet consiste à développer un **web scraper en Python** permettant d’extraire automatiquement des informations de produits depuis Amazon et de suivre leur évolution dans le temps.
 
